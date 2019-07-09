@@ -24,3 +24,6 @@ There are two CSV files.
 
 TED Rating-
 TED allows its users to rate a particular talk on a variety of metrics. We therefore have data on how many people found a particular talk funny, inspiring, creative and a myriad of other verbs. So this rating column was in the form of list of dictionaries as shown below 
+
+<img width="1005" alt="Screen Shot 2019-07-09 at 9 30 54 AM" src="https://user-images.githubusercontent.com/49076702/60906755-c6dace80-a22c-11e9-952e-0ac721ac4c39.png">
+
