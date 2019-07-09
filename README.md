@@ -33,3 +33,8 @@ We discreted the different rating with their count for each speaker in seperate 
 
 2) Transformed_Data-
  Created a filtered dataframe from specific columns and renamed the column headers and set the index for the transformed data.
+
+# Load:
+
+1) Create Database Connection
+
