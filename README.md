@@ -8,9 +8,6 @@ The world of TED was founded in 1984 by Richard Saulman as a non profit organisa
 
 Ted, which operates under the slogan 'Ideas worth spreading' has managed to achieve an incredible feat of bringing world renowned experts from various walks of life and study and giving them a platform to distill years of their work and research into talks.
 
-We get to learn an incredible amount, about fields that we are completely alien to, in the form of poignant stories, breathtaking visuals and subtle humor. So in this project, we attempted finding insights about the world of TED, the speakers, their viewers and the ratings.
-
-
 # Extract: 
 
 These data has been obtained by running a custom web scraper on the official TED.com website and it is shared under the Creative Commons License (just like the TED Talks) and hosted on Kaggle. It contains the information about all audio-video recordings of TED Talks uploaded to the official TED.com website.
@@ -44,6 +41,8 @@ We discreted the different rating with their count for each speaker in seperate 
 
 <img width="880" alt="Screen Shot 2019-07-09 at 9 51 28 AM" src="https://user-images.githubusercontent.com/49076702/60907856-67ca8900-a22f-11e9-88a6-505d67fb95b7.png">
 
-# Why we choose this?
+# Conclusion
 
+It's always been fascinated by TED Talks and the immense diversity of content that is been provided for free.
+The purpose to do this project is to learn an incredible amount, about fields that we are completely alien to, in the form of stories, breathtaking visuals and subtle humor. 
 
