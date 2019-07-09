@@ -38,3 +38,9 @@ We discreted the different rating with their count for each speaker in seperate 
 
 1) Create Database Connection
 
+<img width="683" alt="Screen Shot 2019-07-09 at 9 51 17 AM" src="https://user-images.githubusercontent.com/49076702/60907784-394cae00-a22f-11e9-9179-a5825671f2c2.png">
+
+2) Load DataFrames into Database
+
+
+
