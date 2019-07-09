@@ -46,3 +46,4 @@ We discreted the different rating with their count for each speaker in seperate 
 It's always been fascinated by TED Talks and the immense diversity of content that is been provided for free.
 The purpose to do this project is to learn an incredible amount, about fields that we are completely alien to, in the form of stories, breathtaking visuals and subtle humor. 
 
+# Keep Spreading the ideas
