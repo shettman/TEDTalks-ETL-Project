@@ -42,5 +42,7 @@ We discreted the different rating with their count for each speaker in seperate 
 
 2) Load DataFrames into Database
 
+<img width="880" alt="Screen Shot 2019-07-09 at 9 51 28 AM" src="https://user-images.githubusercontent.com/49076702/60907856-67ca8900-a22f-11e9-88a6-505d67fb95b7.png">
+
 
 
