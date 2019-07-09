@@ -22,5 +22,5 @@ There are two CSV files.
 
 # Transform:
 
-> TED Rating-
+TED Rating-
 TED allows its users to rate a particular talk on a variety of metrics. We therefore have data on how many people found a particular talk funny, inspiring, creative and a myriad of other verbs. So this rating column was in the form of list of dictionaries as shown below 
