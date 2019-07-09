@@ -19,3 +19,5 @@ There are two CSV files.
 
 1) ted_main.csv - Contains data on actual TED Talk metadata and TED Talk speakers.
 2) transcripts.csv - Contains transcript and URL information for TED Talks
+
+# Transform: 
