@@ -28,8 +28,12 @@ SELECT * FROM URL;
 SELECT * FROM main_data;
 
 ---- Joins tables
-SELECT main_data.id, main_data.speaker_name, main_data.speaker_occupation, main_data.topic_name, main_data.views, main_data.url, main_data.funny_rating,
+SELECT main_data.id, main_data.speaker_name, main_data.speaker_occupation, main_data.topic_name, main_data.views, main_data.funny_rating,
 main_data.beautiful_rating, main_data.courageous_rating, main_data.informative_rating, main_data.confusing_rating, URL.transcription, URL.url
 FROM main_data
 JOIN URL
 ON main_data.id = URL.id;
+
+
+
+--COPY persons TO 'C:\Users\manmo\Desktop\TEDTalks-ETL-Project\Resources\TEDTALKS_new' DELIMITER ',' CSV HEADER;
