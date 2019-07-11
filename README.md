@@ -41,6 +41,11 @@ We discreted the different rating with their count for each speaker in seperate 
 
 <img width="880" alt="Screen Shot 2019-07-09 at 9 51 28 AM" src="https://user-images.githubusercontent.com/49076702/60907856-67ca8900-a22f-11e9-88a6-505d67fb95b7.png">
 
+3) Build up the query by joining the two csv
+
+![4](https://user-images.githubusercontent.com/49076702/61014650-6091a100-a33d-11e9-8d51-19689aceb39a.JPG)
+
+
 # Conclusion
 
 It's always been fascinated by TED Talks and the immense diversity of content that is been provided for free.
